@@ -32,7 +32,7 @@ export default function Home() {
                 <p className="text-center mb-2 text-xs font-semibold">
                     The code for this porfolio is public and can be viewed{" "}
                     <Link
-                        href="https://github.com/setPedro/portfolio"
+                        href="https://github.com/setpedro/portfolio"
                         target="_blank"
                         className="border-b hover:text-link-hover-blue hover:border-link-hover-blue"
                     >

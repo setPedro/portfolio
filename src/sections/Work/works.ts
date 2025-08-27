@@ -29,7 +29,7 @@ export const WORKS: Work[] = [
             buttons: {
                 websiteButtonColor: "snaike",
                 websiteLink: "https://snaike.vercel.app/",
-                moreLink: "https://github.com/setPedro/snaike",
+                moreLink: "https://github.com/setpedro/snaike",
             },
         },
         logo: "/Work/SnaikeLogo.png",
@@ -67,7 +67,7 @@ export const WORKS: Work[] = [
             buttons: {
                 websiteButtonColor: "usellExperience",
                 websiteLink: "https://usell-experience.vercel.app/",
-                moreLink: "https://github.com/setPedro/usell-experience",
+                moreLink: "https://github.com/setpedro/usell-experience",
             },
         },
         logo: "/Work/UsellExperienceLogo.svg",

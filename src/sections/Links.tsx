@@ -6,15 +6,15 @@ export default function Links() {
       <h1 className="text-3xl font-bold">Links</h1>
       <div className="grid sm:grid-cols-2 gap-4">
         <SimpleCard
-          text="@_setPedro"
+          text="@setpedro_"
           icon="/Links/TwitterLogo.svg"
-          link="https://x.com/_setPedro"
+          link="https://x.com/setpedro_"
           className="hover:opacity-70"
         />
         <SimpleCard
-          text="@setPedro"
+          text="@setpedro"
           icon="/Links/GithubLogo.svg"
-          link="https://github.com/setPedro"
+          link="https://github.com/setpedro"
           className="hover:opacity-70"
         />
       </div>
